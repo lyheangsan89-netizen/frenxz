@@ -1,0 +1,6 @@
+{
+  "name": "Frenxz",
+  "description": "Frenxz AI Dubbing Studio - Advanced Khmer AI Video Dubbing & Smart Fit Workstation with real-time syllable analysis, adaptive time-stretching, and bilingual subtitle synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

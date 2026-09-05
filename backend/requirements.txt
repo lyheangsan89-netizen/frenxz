@@ -1,0 +1,24 @@
+# DII STUDIO DUB Backend Pipeline Dependencies
+# Python 3.10+ recommended
+
+# Speech-to-Text & Diarization
+whisperx>=3.1.1
+faster-whisper>=1.0.0
+torch>=2.2.0
+torchaudio>=2.2.0
+pyannote.audio>=3.1.1
+
+# AI Stem Separation (Vocals vs BGM)
+demucs>=4.0.1
+
+# Audio Processing & Time-Stretching
+ffmpeg-python>=0.2.0
+pydub>=0.25.1
+scipy>=1.11.0
+soundfile>=0.12.1
+
+# LLM Translation & API Clients
+google-genai>=2.4.0
+requests>=2.31.0
+edge-tts>=6.1.10
+python-dotenv>=1.0.0
